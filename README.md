@@ -87,20 +87,28 @@ This project demonstrates the implementation of a scalable ETL (Extract, Transfo
 
 ## 📸 Screenshots
 <img width="940" height="533" alt="image" src="https://github.com/user-attachments/assets/e44f5ebd-30fd-4af3-b8d0-f79d06b56783" />
+---
 
 <img width="940" height="531" alt="image" src="https://github.com/user-attachments/assets/3dfca6ba-cb6c-406d-aeef-e6392d3be3fb" />
+---
 
 <img width="940" height="528" alt="image" src="https://github.com/user-attachments/assets/aa917b5d-6da1-4ca6-ad18-55826c3126bd" />
+---
 
 <img width="940" height="528" alt="image" src="https://github.com/user-attachments/assets/4d4c095a-9a29-4f29-8040-aae60af15a15" />
+---
 
 <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/80673b3c-9976-472c-9dfa-83a0731f6f88" />
+---
 
 <img width="940" height="528" alt="image" src="https://github.com/user-attachments/assets/c7ab9f41-a64a-4ad2-b8de-86e7cbb37a6c" />
+---
 
 <img width="940" height="539" alt="image" src="https://github.com/user-attachments/assets/4b2e99f2-0896-4a97-8452-1a1aa198dcc4" />
+---
 
 <img width="940" height="528" alt="image" src="https://github.com/user-attachments/assets/1b8cdae8-097d-4e92-abaf-e084b3ea5375" />
+---
 
 
 
