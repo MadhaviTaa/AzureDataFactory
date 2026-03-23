@@ -86,7 +86,8 @@ This project demonstrates the implementation of a scalable ETL (Extract, Transfo
 ---
 
 ## 📸 Screenshots
-(Add screenshots in /screenshots folder)
+<img width="940" height="533" alt="image" src="https://github.com/user-attachments/assets/e44f5ebd-30fd-4af3-b8d0-f79d06b56783" />
+
 
 ---
 
