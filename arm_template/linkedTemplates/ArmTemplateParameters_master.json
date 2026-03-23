@@ -1,0 +1,30 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "factoryName": {
+            "value": "madhavi-ADF"
+        },
+        "AzureDataLakeStorage1_accountKey": {
+            "value": ""
+        },
+        "AzureDataLakeStorage1_properties_typeProperties_url": {
+            "value": "https://storagedatafactorymad.dfs.core.windows.net/"
+        },
+        "HttpServer1_properties_typeProperties_url": {
+            "value": "https://raw.githubusercontent.com"
+        },
+        "managerTriger_properties_typeProperties_scope": {
+            "value": "/subscriptions/a7356cb3-1cdc-447f-8b46-39045fb18094/resourceGroups/RG-ADFMadhavi/providers/Microsoft.Storage/storageAccounts/storagedatafactorymad"
+        },
+        "ManTrigger_properties_typeProperties_scope": {
+            "value": "/subscriptions/a7356cb3-1cdc-447f-8b46-39045fb18094/resourceGroups/RG-ADFMadhavi/providers/Microsoft.Storage/storageAccounts/storagedatafactorymad"
+        },
+        "containerUri": {
+            "value": ""
+        },
+        "containerSasToken": {
+            "value": ""
+        }
+    }
+}
